@@ -1,4 +1,3 @@
-# teste_software
 
 # teste de software
 
